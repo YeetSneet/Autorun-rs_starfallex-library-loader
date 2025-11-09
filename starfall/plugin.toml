@@ -1,0 +1,6 @@
+[plugin]
+name = "starfall"
+author = "yeet"
+version = "0.1.0"
+description = "my first autorun-rs plugin"
+language = "lua"
